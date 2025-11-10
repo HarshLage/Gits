@@ -6,6 +6,6 @@ function two(){
     return 'this is the second chagne'
 }
 
-// function three(){
-//     return "this is the thrid change "
-// }
+function three(){
+    return "this is the thrid change "
+}
