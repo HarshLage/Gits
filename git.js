@@ -17,3 +17,7 @@ function four_luffy(){
 funtion fifth_sanji(){
     return "this is the change for the sanji brnach "
 }
+
+function sixth_zoro(){
+    return "this is the change for the zoros branch "
+}
