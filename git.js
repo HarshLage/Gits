@@ -21,3 +21,7 @@ funtion fifth_sanji(){
 function sixth_zoro(){
     return "this is the change for the zoros branch "
 }
+
+function seven(){
+    return "this is the seven"
+}
