@@ -25,3 +25,7 @@ function sixth_zoro(){
 function seven(){
     return "this is the seven"
 }
+
+function nami(){
+    return "this is for the nami "
+}
